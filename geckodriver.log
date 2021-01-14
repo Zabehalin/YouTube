@@ -1,0 +1,179 @@
+1610638206010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3eD8kF"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1610638228381	Marionette	INFO	Listening on port 46125
+1610638228532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1610638257141	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 180: Error: permitUnload is already running for this tab.
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 54: TypeError: aWindow.docShell is null
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+1610638273927	Marionette	INFO	Stopped listening on port 46125
+1610638492833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ObzNk"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1610638518427	Marionette	INFO	Listening on port 40939
+1610638518529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1610638549062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1610638561570	Marionette	ERROR	[19] No reply from Marionette:Register
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1610638567845	Marionette	INFO	Stopped listening on port 40939
+1610638634406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej8PidL"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1610638663270	Marionette	INFO	Listening on port 40285
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1610638663404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1610638690604	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1610638706048	Marionette	ERROR	[19] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638713936	Marionette	INFO	Stopped listening on port 40285
+1610639051143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaCe6Gl"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1610639058392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCjF2Zl"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1610639075774	Marionette	INFO	Listening on port 44513
+1610639075808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1610639095731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1610639099759	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639153205	Marionette	INFO	Stopped listening on port 44513
