@@ -7,8 +7,6 @@ from selenium.webdriver.firefox.options import Options
 print("starting...")
 
 def main():
-
-
 	options = Options()
 	options.headless = False
 	driver = webdriver.Firefox(options=options)
