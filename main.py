@@ -20,7 +20,7 @@ def main():
 	name = driver.find_element_by_css_selector("div.tile--c--w:nth-child(3) > div:nth-child(1) > img:nth-child(1)").click()
 	watch = driver.find_element_by_class_name("overlay__btn").click()
 #
- def threads():
+# def threads():
 # 	for item in range(3):
 # 		thread = Thread(target=main)
 # 		thread.start()
