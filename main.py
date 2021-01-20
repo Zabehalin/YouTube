@@ -1,15 +1,29 @@
-from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.proxy import *
 import time
+from threading import Thread
+from selenium import webdriver
+from selenium.webdriver.common.proxy import *
+from selenium.webdriver.firefox.options import Options
 
-print("start")
-myProxy = "192.109.165.41:80"
-proxy = Proxy({'proxyType': ProxyType.MANUAL,'httpProxy': myProxy,'ftpProxy': myProxy, 'sslProxy': myProxy,'noProxy':''})
-options = Options()
-options.headless = False
-driver = webdriver.Firefox(options=options, proxy=proxy)
-driver.get("https://www.youtube.com/watch?v=UIwhN3hHg7A")
-element = driver.find_element_by_class_name("ytp-play-button")
-element.click()
-time.sleep(15000)
+print("starting...")
+
+def main():
+
+
+	options = Options()
+	options.headless = False
+	driver = webdriver.Firefox(options=options)
+	driver.get("https://duckduckgo.com")
+	search = driver.find_element_by_id("search_form_input_homepage")
+	search.send_keys("Dubno Ukraine July 1992")
+	search_btn = driver.find_element_by_id("search_button_homepage").click()
+	videos = driver.find_element_by_class_name("js-zci-link--videos").click()
+	name = driver.find_element_by_css_selector("div.tile--c--w:nth-child(3) > div:nth-child(1) > img:nth-child(1)").click()
+	watch = driver.find_element_by_class_name("overlay__btn").click()
+#
+ def threads():
+# 	for item in range(3):
+# 		thread = Thread(target=main)
+# 		thread.start()
+
+if __name__ == "__main__":
+	main()
