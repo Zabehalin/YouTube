@@ -1,12 +1,12 @@
-import time
 from threading import Thread
 from selenium import webdriver
-from selenium.webdriver.common.proxy import *
 from selenium.webdriver.firefox.options import Options
 
 print("starting...")
 
 def main():
+
+
 	options = Options()
 	options.headless = False
 	driver = webdriver.Firefox(options=options)
@@ -18,10 +18,10 @@ def main():
 	name = driver.find_element_by_css_selector("div.tile--c--w:nth-child(3) > div:nth-child(1) > img:nth-child(1)").click()
 	watch = driver.find_element_by_class_name("overlay__btn").click()
 #
-# def threads():
-# 	for item in range(3):
-# 		thread = Thread(target=main)
-# 		thread.start()
+def threads():
+	for item in range(10):
+		thread = Thread(target=main)
+		thread.start()
 
 if __name__ == "__main__":
-	main()
+	threads()
